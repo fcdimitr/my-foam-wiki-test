@@ -6,9 +6,8 @@ const siteMetadata = {
   shortName: "Wiki",
   description:
     "Another Foam template that use gatsby-theme-primer-wiki, Welcome to your new Foam Knowledge Base!",
-  twitterName: "theowenyoung",
   imageUrl: "/graph-visualisation.jpg",
-  siteUrl: "https://demo-foam.owenyoung.com",
+  siteUrl: "https://fcdimitr.github.io/my-foam-wiki-test",
 };
 module.exports = {
   siteMetadata,
@@ -26,7 +25,7 @@ module.exports = {
         nav: [
           {
             title: "Github",
-            url: "https://github.com/theowenyoung/foam-template-gatsby-theme-primer-wiki/",
+            url: "https://fcdimitr.github.io/my-foam-wiki-test",
           },
           {
             title: "Twitter",
@@ -34,7 +33,7 @@ module.exports = {
           },
         ],
         editUrl:
-          "https://github.com/theowenyoung/foam-template-gatsby-theme-primer-wiki/tree/main/",
+          "https://fcdimitr.github.io/my-foam-wiki-test/tree/main/",
       },
     },
     {
