@@ -1,5 +1,5 @@
 const path = require("path");
-const pathPrefix = "/";
+const pathPrefix = "/my-foam-wiki-test";
 // Change me
 const siteMetadata = {
   title: "Foam Template for Gatsby Theme Primer Wiki",
@@ -7,7 +7,7 @@ const siteMetadata = {
   description:
     "Another Foam template that use gatsby-theme-primer-wiki, Welcome to your new Foam Knowledge Base!",
   imageUrl: "/graph-visualisation.jpg",
-  siteUrl: "https://fcdimitr.github.io/my-foam-wiki-test",
+  siteUrl: "https://fcdimitr.github.io",
 };
 module.exports = {
   siteMetadata,
