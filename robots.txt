@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://fcdimitr.github.io/my-foam-wiki-test/sitemap/sitemap-index.xml
+Sitemap: https://fcdimitr.github.io/sitemap/sitemap-index.xml
 Host: https://fcdimitr.github.io
